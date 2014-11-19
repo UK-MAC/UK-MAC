@@ -1,0 +1,15 @@
+[submodule "CloverLeaf"]
+	path = CloverLeaf
+	url = https://github.com/UK-MAC/CloverLeaf.git
+[submodule "CloverLeaf3D"]
+	path = CloverLeaf3D
+	url = https://github.com/UK-MAC/CloverLeaf3D.git
+[submodule "CleverLeaf"]
+	path = CleverLeaf
+	url = https://github.com/UK-MAC/CleverLeaf.git
+[submodule "TeaLeaf"]
+	path = TeaLeaf
+	url = https://github.com/UK-MAC/TeaLeaf.git
+[submodule "BookLeaf"]
+	path = BookLeaf
+	url = https://github.com/UK-MAC/BookLeaf.git
