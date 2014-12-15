@@ -80,4 +80,7 @@ git commit -am "Updated CloverLeaf ref to v1.1.1"
 git push
 ```
 
+## Setting up web page
+
+See: [Github Guide](https://help.github.com/articles/creating-project-pages-manually/)
 
