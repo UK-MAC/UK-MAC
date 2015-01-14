@@ -84,3 +84,14 @@ git push
 
 See: [Github Guide](https://help.github.com/articles/creating-project-pages-manually/)
 
+# Push Branch to new Repo
+
+Make the new repo on the GitHub webpage.
+
+Clone the branch locally and checkout the correct branch e.g. <3d>.
+To push to new repo - as a master branch e.g. TeaLeaf3D_ref.
+
+```
+git push git@github.com:UK-MAC/TeaLeaf3D_ref +3d:master
+```
+
